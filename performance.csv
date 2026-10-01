@@ -1,0 +1,8 @@
+performance,attendance,studylevel,result
+low,poor,low,fail
+low,average,low,fail
+medium,average,medium,pass
+medium,good,medium,pass
+high,good,high,pass
+high,excellent,high,pass
+low,poor,medium,fail
